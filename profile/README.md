@@ -8,39 +8,41 @@ Bienvenido al `Curso de Python`, un curso diseñado para enseñarte a programar,
 - **Bibliotecas populares**: Te familiarizarás con herramientas poderosas para expandir tus habilidades.
 
 ## 📂 Contenido del Curso
-1. 🖥️ **Entradas y Salidas**
-   - Tipos de datos básicos  
-   - Variables  
-   - Operadores aritméticos y lógicos  
+1. 🖥️ - `Entradas y Salidas`
+   - Tipos de datos básicos. 
+   - Variables.
+   - Operadores aritméticos y lógicos.  
 
-2. 🔄 **Estructuras de Control**
-   - Estructuras de control selectivas  
-   - Estructuras de control repetitivas  
-   - Estructuras de control anidadas  
+2. 🔄 - `Estructuras de Control`
+   - Estructuras de control selectivas.
+   - Estructuras de control repetitivas.
+   - Estructuras de control anidadas.
 
-3. 📊 **Contenedores I (Listas y Matrices)**
-   - Índices y operadores en un contenedor  
-   - Iteraciones en un contenedor
+3. 📊 - `Contenedores I`
+   - Listas y matrices.
+   - Índices y operadores en un contenedor.
+   - Iteraciones en un contenedor.
 
-4. 🛠️ **Funciones**
-   - Declaración de una función  
-   - Valor de retorno  
-   - Parámetros 
-   - Librerías
+5. 🛠️ - `Funciones`
+   - Declaración de una función.
+   - Valor de retorno.
+   - Parámetros.
+   - Librerías.
 
-5. 📦 **Contenedores II (Diccionarios y Tuplas)**
-   - Índices y operadores en un contenedor  
-   - Iteraciones en un contenedor  
+6. 📦 - `Contenedores II`
+   - Diccionarios y Tuplas.
+   - Índices y operadores en un contenedor.
+   - Iteraciones en un contenedor.
 
-6. 📂 **Archivos**
-   - Lectura de archivos  
-   - Escritura de archivos 
+8. 📂 - `Archivos`
+   - Lectura de archivos.
+   - Escritura de archivos. 
 
-7. 🔄 **Recursividad**
-    - Definición  
-    - Cola de llamadas  
-    - Backtracking
+9. 🔄 - `Recursividad`
+    - Definición.
+    - Cola de llamadas.  
+    - Backtracking.
   
-8. 🚀 Proyecto del Curso
-    - Videojuego
-    - Aplicación
+10. 🚀 - `Proyecto del Curso`
+    - Videojuegos.
+    - Aplicaciones.
