@@ -7,6 +7,10 @@ Bienvenido al `Curso de Python`, un curso diseñado para enseñarte a programar,
 - **Automatización y Desarrollo**: Explorarás cómo automatizar tareas y desarrollar aplicaciones útiles.
 - **Bibliotecas populares**: Te familiarizarás con herramientas poderosas para expandir tus habilidades.
 
+## 📝 Requisitos
+- Conocimiento básico de computadoras 💻
+- Ganas de aprender y explorar el mundo de la programación 🧠
+
 ## 📂 Contenido del Curso
 1. 🖥️ - `Entradas y Salidas`
    - Tipos de datos básicos. 
