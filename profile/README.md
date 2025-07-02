@@ -1,5 +1,5 @@
-# 🐍 Curso de Python
-Bienvenido al `Curso de Python`, un curso diseñado para enseñarte a programar, desde lo más básico hasta nivel avanzado. Este curso está lleno de ejemplos prácticos, ejercicios interactivos y proyectos para que aprendas a utilizar Python en el desarrollo de aplicaciones, análisis de datos y más.
+# 🐍 Curso de Python I
+Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programar. Este curso está lleno de ejemplos prácticos, ejercicios interactivos y proyectos para que aprendas a utilizar Python en el desarrollo de aplicaciones, análisis de datos y más.
 
 ## 🚀 Objetivos
 - **Fundamentos de Python**: Comenzarás desde cero, entendiendo la sintaxis y los conceptos básicos.
@@ -18,31 +18,39 @@ Bienvenido al `Curso de Python`, un curso diseñado para enseñarte a programar,
    - Estructuras de control repetitivas.
    - Estructuras de control anidadas.
 
-3. 📊 - `Contenedores I`
-   - Listas y matrices.
-   - Índices y operadores en un contenedor.
-   - Iteraciones en un contenedor.
+3. 📝 - `String`
+   - ¿Qué es un string?
+   - Funciones básicas de strings
+   - Índices y operadores de strings
+   - Iteración en un string
+
+3. 📦 - `Listas`
+   - ¿Qué es una lista?
+   - Índices y operadores en una lista
+   - Iteración en una lista
+   - Matrices
+   - Listas por comprensión
+  
+4. 📦 - `Diccionarios`
+   - ¿Qué es un diccionario?
+   - Dupla: Llave - Valor
 
 5. 🛠️ - `Funciones`
-   - Declaración de una función.
-   - Valor de retorno.
-   - Parámetros.
-   - Librerías.
+   - ¿Qué es una función?
+   - Parámetros por valor y referencia
+   - Librerías
+   - Alcance de una variable
+   - Parámetros por defecto
 
-6. 📦 - `Contenedores II`
-   - Diccionarios y Tuplas.
-   - Índices y operadores en un contenedor.
-   - Iteraciones en un contenedor.
+6. 🔄 - `Recursión`
+   - ¿Qué es recursión?
+   - Cola de llamadas
+   - Backtracking
 
-8. 📂 - `Archivos`
+7. 📂 - `Archivos`
    - Lectura de archivos.
    - Escritura de archivos. 
-
-9. 🔄 - `Recursividad`
-    - Definición.
-    - Cola de llamadas.  
-    - Backtracking.
   
-10. 🚀 - `Proyecto del Curso`
+8. 🚀 - `Proyecto del Curso`
     - Videojuegos.
     - Aplicaciones.
