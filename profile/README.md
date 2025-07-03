@@ -13,8 +13,8 @@ Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programa
    - Variables.
    - Operadores aritméticos y lógicos.  
 
-2. [🔄 - `Estructuras de Control`](https://github.com/DaliaSilvana-Python1/S2-1)
-   - Estructuras de control selectivas.
+2. 🔄 - `Estructuras de Control`
+   - [Estructuras de control selectivas].(https://github.com/DaliaSilvana-Python1/S2-1)
    - Estructuras de control repetitivas.
    - Estructuras de control anidadas.
 
