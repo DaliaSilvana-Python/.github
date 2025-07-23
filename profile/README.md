@@ -16,7 +16,7 @@ Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programa
 2. 🔄 - `Estructuras de Control`
    - [Estructuras de control selectivas.](https://github.com/NS-Python1/S2-1)
    - [Estructuras de control repetitivas.](https://github.com/NS-Python1/S2-2)
-   - Estructuras de control anidadas.
+   - [Estructuras de control anidadas.](https://github.com/NS-Python1/S2-3)
 
 3. 📝 - `String`
    - ¿Qué es un string?
