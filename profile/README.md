@@ -18,7 +18,7 @@ Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programa
    - [Estructuras de control repetitivas.](https://github.com/NS-Python1/S2-2)
    - [Estructuras de control anidadas.](https://github.com/NS-Python1/S2-3)
 
-3. 📝 - `String`
+3. 📝 - [`String`](https://github.com/NS-Python1/S3-1)
    - ¿Qué es un string?
    - Funciones básicas de strings
    - Índices y operadores de strings
