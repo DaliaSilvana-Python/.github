@@ -10,7 +10,7 @@ Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programa
 ## 📂 Contenido del Curso
 1. 🖥️ - `Entradas y Salidas`
    - Tipos de datos básicos. 
-   - Variables.
+   - [Variables.](https://github.com/NS-Python1/S1-2)
    - Operadores aritméticos y lógicos.  
 
 2. 🔄 - `Estructuras de Control`
