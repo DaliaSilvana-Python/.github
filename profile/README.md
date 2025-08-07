@@ -29,7 +29,6 @@ Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programa
    - Índices y operadores en una lista
    - Iteración en una lista
    - Matrices
-   - Listas por comprensión
   
 4. 📦 - `Diccionarios`
    - ¿Qué es un diccionario?
@@ -40,7 +39,6 @@ Bienvenido al `Curso de Python I`, un curso diseñado para enseñarte a programa
    - Parámetros por valor y referencia
    - Librerías
    - Alcance de una variable
-   - Parámetros por defecto
 
 6. 🔄 - `Recursión`
    - ¿Qué es recursión?
